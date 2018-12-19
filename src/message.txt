@@ -1,4 +1,8 @@
 hello buddy
+<<<<<<< HEAD
 
 
 how are you?
+=======
+hello nagesh
+>>>>>>> branch2
